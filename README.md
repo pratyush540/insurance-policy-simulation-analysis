@@ -116,6 +116,13 @@ Main visuals include:
 
 ---
 
+
+## 📎 Project Links
+
+
+📊 **Power BI Live Dashboard**  
+https://app.powerbi.com/groups/me/reports/cd043c64-e466-4267-beb2-af36bad2c734/92073c1a026164c8e221?experience=power-bi
+
 ## Author
 
 **Pratyush Anand**
